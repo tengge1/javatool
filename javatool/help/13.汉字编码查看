@@ -1,0 +1,20 @@
+tengge经典作品，可查看十几种编码，例如：
+
+下面是“爱”的各种编码：
+
+unicode码：\u7231
+utf8码：\xe7\x88\xb1
+utf7码：+cjE-
+utf16码：\xff\xfe1r
+gbk码：\xb0\xae
+big5码：\xa1H
+ascii码：\x31\x72
+utf_16_be码：r1
+utf_16_le码：1r
+uu_codec码：begin 666 <data>
+",7( 
+ 
+end
+
+utf8_hex码：e788b1
+gbk_hex码：b0ae

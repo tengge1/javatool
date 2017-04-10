@@ -1,0 +1,23 @@
+MANIFEST.MF文件一般位于META-INF/MANIFEST.MF，一般具有以下项目：
+
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.1
+Created-By: 1.6.0_18-b07 (Sun Microsystems Inc.)
+MIDlet-Vendor: ls
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.0
+
+MIDlet-1: 雷电2012,/icon.png,Main
+→功能表中显示名称，图标位置及主函数名称，如果缺某一项，中间的逗号不可省略
+
+MIDlet-Icon: /icon.png
+→图标位置，要和上面一致
+
+MIDlet-Name: 雷电2012
+→安装时显示的名称
+
+我们可以通过改变这些内容修改游戏安装名称，游戏名称，制作共存等。
+
+注意事项：
+1.所有标点必须在英文状态下输入
+2.空格不可以省略
